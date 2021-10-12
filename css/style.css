@@ -11,8 +11,8 @@ body{
     height: 100vh;
     background-color: red;
 }
-#red{
-    position: absolute;
+.scarpa{
+    position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
