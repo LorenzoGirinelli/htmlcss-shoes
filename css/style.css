@@ -17,18 +17,6 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-#green{
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-#yellow{
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 .scritta{
     color: yellow;
     font-size: 40px;
